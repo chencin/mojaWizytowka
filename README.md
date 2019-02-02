@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witaj na mojej wizytówce
 
 You can use the [editor on GitHub](https://github.com/chencin/mojaWizytowka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
